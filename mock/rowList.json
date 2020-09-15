@@ -1,0 +1,1741 @@
+{
+    "firstProducts": [
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/deaff27dc29d46ea8206bbe0143358e5/10030434/primary.png",
+                "brandName": "TOUTOU",
+                "brandSn": "10030434"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/3b139c765285890804971688801/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.6",
+                "fav": "",
+                "marketPrice": "650",
+                "specialPrice": "104",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "149"
+            },
+            "productId": "6918853609053412359",
+            "productName": "胸包女包2020新款潮腰包法式小众单肩包斜挎包百搭ins包包",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "149",
+                "totalQuota": 500,
+                "totalQuotaShortTips": "限量500件",
+                "totalQuotaTips": "限量500件,抢完恢复￥149"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710615399"
+            },
+            "sellingPoint": "法式小众印花斜挎胸包",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600689/2020/0702/167/7553d892-4ac7-4b85-946f-048d4d3e06fd_420_531.jpg",
+            "spuId": "1587877238560051202",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600689/2020/0702/19/04ed54bc-ab95-43cd-85c4-4562287eb12b.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0c8c19ddcfa34fce9cf5e823febb81a6/10026495/primary.png",
+                "brandName": "盖朗",
+                "brandSn": "10026495"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/242cf61f5285890795487090686/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.2",
+                "fav": "",
+                "marketPrice": "229",
+                "specialPrice": "27",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "49"
+            },
+            "productId": "6918479114353694103",
+            "productName": "【夏季清仓】韩国进口可微波钢化玻璃吸管杯耐冷热水杯牛奶杯",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "38",
+                "totalQuota": 3000,
+                "totalQuotaShortTips": "限量3000件",
+                "totalQuotaTips": "限量3000件,抢完恢复￥38"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711048919"
+            },
+            "sellingPoint": "可微波时尚玻璃杯",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/610599/2020/0824/159/653e6f87-6cd5-4f7a-917b-c345a74bbd0e_420_531.jpg",
+            "spuId": "1318505595363139584",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/610599/2020/0901/3/7b119ca0-6b08-4589-977c-16cd6d079d33.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0c11bff1ac644ba0969582542bffb27c/10028208/primary.png",
+                "brandName": "固本堂",
+                "brandSn": "10028208"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/fd23921d5285890803264414300/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2.2",
+                "fav": "",
+                "marketPrice": "289",
+                "specialPrice": "63",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "79"
+            },
+            "productId": "6918314217767388826",
+            "productName": "4罐】酸枣仁丸滋补茯苓百合黄精可搭黑芝麻丸想要好睡眠零食糕点",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "79",
+                "totalQuota": 1500,
+                "totalQuotaShortTips": "限量1500件",
+                "totalQuotaTips": "限量1500件,抢完恢复￥79"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710616474"
+            },
+            "sellingPoint": "1天2颗 睡个好觉",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605695/2020/0810/68/41fd6e80-a2c8-487b-ad7f-ec557c64225b_420_531.jpg",
+            "spuId": "248619167446003712",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605695/2020/0810/47/84e1006b-ac52-4f93-aeda-578377676e6f.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c8da82d324e7403287674e5b0852e217/10014155/primary.png",
+                "brandName": "PURITAN'S PRIDE",
+                "brandSn": "10014155"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/05/27/172/34242988.jpg",
+                "countryTips": "美国"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": true,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2.5",
+                "fav": "",
+                "marketPrice": "198",
+                "specialPrice": "49",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "62"
+            },
+            "productId": "6918124622624442310",
+            "productName": "【舒缓关节不适】美国普丽普莱氨糖维骨力关节按摩霜113g",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "62",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥62"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710620198"
+            },
+            "sellingPoint": "轻轻一抹关节不痛",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcimg/2019/02/15/102/342504801550227578163_5t.jpg",
+            "spuId": "966380305347796993",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcimg/2019/02/15/177/366108251550227578195.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/fb9effec5b464f05b571926615023ebb/10004328/primary.png",
+                "brandName": "蓝典",
+                "brandSn": "10004328"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0,
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.1",
+                "fav": "",
+                "marketPrice": "339",
+                "specialPrice": "36",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "45"
+            },
+            "productId": "6918307104868399068",
+            "productName": "泰国天然乳胶枕芯0-15岁婴儿儿童乳胶枕头护颈枕橡胶枕芯枕头",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "45",
+                "totalQuota": 3000,
+                "totalQuotaShortTips": "限量3000件",
+                "totalQuotaTips": "限量3000件,抢完恢复￥45"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710617756"
+            },
+            "sellingPoint": "全棉卡通天然乳胶枕",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/105940/2019/0621/56/c3ac0623-7101-4676-a279-d46ec00343f0_420_531.jpg",
+            "spuId": "26253935890575360",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/105940/2019/1207/57/ac030846-1819-42d0-b2a7-618e66fd4da7.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖4.2万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2e3ca48c62014887b0fe25cb5db44c57/10001157/primary.png",
+                "brandName": "爱之语",
+                "brandSn": "10001157"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/1916bdf85285890787729245443/v.f30.mp4",
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.5",
+                "fav": "",
+                "marketPrice": "268",
+                "specialPrice": "39",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "49"
+            },
+            "productId": "6918118150566200395",
+            "productName": "60支长绒棉全棉枕头套纯棉床用单品枕套一对装",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "49",
+                "totalQuota": 1500,
+                "totalQuotaShortTips": "限量1500件",
+                "totalQuotaTips": "限量1500件,抢完恢复￥49"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "1",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710614571"
+            },
+            "sellingPoint": "60支长绒棉枕套一对",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/100723/2020/0806/30/a81f87c9-adf1-43ab-a964-acdae05254c1_420_531.jpg",
+            "spuId": "583292851786182656",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/100723/2020/0806/130/b58d41d2-c487-4f0e-ad46-ee6f8cdb7ee1.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖1.5万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7a2bd7a719b54303b640299eaa737ee5/10021693/primary.png",
+                "brandName": "黑人牙膏",
+                "brandSn": "10021693"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2.1",
+                "fav": "",
+                "marketPrice": "179",
+                "specialPrice": "36",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "57"
+            },
+            "productId": "6918733288007650202",
+            "productName": "黑人牙膏家庭亮白牙膏超值6件套620g 亮白清新 分解牙渍",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "46",
+                "totalQuota": 1200,
+                "totalQuotaShortTips": "限量1200件",
+                "totalQuotaTips": "限量1200件,抢完恢复￥46"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711251578"
+            },
+            "sellingPoint": "3重净白 呵护牙釉质",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618758/2020/0907/14/6490c797-b662-4292-a14d-980125a13b45_420_531.jpg",
+            "spuId": "584137441272811523",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618758/2020/0907/32/48b4eb88-b155-4041-8191-e48e45cd6d6d.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c95d42e9b6d842839f3ae79205d797a8/10004554/primary.png",
+                "brandName": "南极人",
+                "brandSn": "10004554"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 0,
+            "priceTipsVO": {
+                "discount": "1.8",
+                "fav": "",
+                "marketPrice": "219",
+                "specialPrice": "39",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "49"
+            },
+            "productId": "6918718509557086534",
+            "productName": "【简约印花】4条装男士内裤平角内裤抗菌透气棉柔内裤男士",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "49",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥49"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710613510"
+            },
+            "sellingPoint": "U型大空间 抗菌透气",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104820/2020/0831/128/f1dfb57d-f1b2-4e17-bb73-bdcd8ac2ef35_420_531.jpg",
+            "spuId": "1952105826732453888",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104820/2020/0831/22/97b37480-e286-4722-a6e1-613acaae79e8.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/44f7a55ea7be43889bcc34882edc28f9/10028225/primary.png",
+                "brandName": "丽贵",
+                "brandSn": "10028225"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/05/27/172/34242988.jpg",
+                "countryTips": "美国"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0,
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": true,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2",
+                "fav": "",
+                "marketPrice": "399",
+                "specialPrice": "79",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "99"
+            },
+            "productId": "6918708240037548244",
+            "productName": "小黄人联名 丽贵儿童复合维生素小熊糖 190粒",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "99",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥99"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710620340"
+            },
+            "sellingPoint": "1粒补充13种营养",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/1000000001/2020/0323/76/213e2592-4e3f-43a4-b454-2dd59c14f75c_420_531.jpg",
+            "spuId": "296470001298886656",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/1000000001/2020/0701/41/0364970c-4cef-4272-8ae1-d0594b85fefd.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.8万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8d4e59ae7f124f0baa90bf1795a82569/10015563/primary.png",
+                "brandName": "忆江南",
+                "brandSn": "10015563"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/83535ed35285890796216371384/v.f30.mp4",
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.4",
+                "fav": "",
+                "marketPrice": "149",
+                "specialPrice": "20",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "25"
+            },
+            "productId": "6918327107407679626",
+            "productName": "自营|金银花菊花枸杞茶140g 菊花茶 决明子 金银花 养生茶 花茶",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "25",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥25"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710619402"
+            },
+            "sellingPoint": "清润生活 不惧辛辣",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/604107/2020/0826/134/4c49c9bd-121a-4224-808d-39af807be058_420_531.jpg",
+            "spuId": "374719955908771840",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/604107/2020/0826/66/aa11ce40-c02e-43ea-9d94-faef89d4562e.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.7万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/19e6825a23f4427a8f64d93fadfd2ece/10036746/primary.png",
+                "brandName": "青源堂",
+                "brandSn": "10036746"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "6",
+                "fav": "",
+                "marketPrice": "49",
+                "specialPrice": "29",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "39"
+            },
+            "productId": "6918779902631088971",
+            "productName": "金银花菊花枸杞决明子茶蒲公英熬夜茶花茶组合养生茶包150克X3",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "39",
+                "totalQuota": 2000,
+                "totalQuotaShortTips": "限量2000件",
+                "totalQuotaTips": "限量2000件,抢完恢复￥39"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710770667"
+            },
+            "sellingPoint": "心肝宝贝用心呵护",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614561/2020/0701/31/09da1ea4-5933-427a-99b5-76286a9bb015_420_531.jpg",
+            "spuId": "1591817866399367168",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614561/2020/0701/28/f31486f7-0a78-423e-a2a3-2ad445b6c4fe.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/29f04347dc1940279b76aaca548b99fe/10021754/primary.png",
+                "brandName": "左家右厨",
+                "brandSn": "10021754"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/b5ebc7d45285890803650717984/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2",
+                "fav": "",
+                "marketPrice": "419",
+                "specialPrice": "82",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "186"
+            },
+            "productId": "6918802688430929435",
+            "productName": "【10头-18头陶瓷餐具套装】盘子碗套装碗碟盘餐具碗碟套装",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "118",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥118"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711198139"
+            },
+            "sellingPoint": "一套餐具 陪伴一个家",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612320/2020/0903/92/def29bde-d7d3-432e-af36-27355a8b9207_420_531.jpg",
+            "spuId": "3488114795364577280",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612320/2020/0903/34/ac7548d5-a027-496f-8fea-c87719bf3cb9.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2f32e64d1f8b44778a1b11c35c03d8eb/10004068/primary.png",
+                "brandName": "比得兔",
+                "brandSn": "10004068"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.3",
+                "fav": "",
+                "marketPrice": "239",
+                "specialPrice": "30",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "59"
+            },
+            "productId": "6918180972712731776",
+            "productName": "500ML高硼硅玻璃耐热防爆便携随手玻璃杯杯子玻璃水杯",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "43",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥43"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710613376"
+            },
+            "sellingPoint": "高硼硅玻璃耐热水杯",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104743/2019/0326/194/98daefdb-58b7-4cb6-9f95-ac469e24ee1f_420_531.jpg",
+            "spuId": "33572254467706880",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104743/2019/0326/86/94892584-5e8a-48d6-b113-59471c8678bd.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0c11bff1ac644ba0969582542bffb27c/10028208/primary.png",
+                "brandName": "固本堂",
+                "brandSn": "10028208"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/6332cc915285890784255764331/v.f30.mp4",
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "3",
+                "fav": "",
+                "marketPrice": "398",
+                "specialPrice": "118",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "148"
+            },
+            "productId": "6917992010171163290",
+            "productName": "自营】2大箱60支阿胶口服液传统滋补气血好营养品复方阿胶浆",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "148",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥148"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710616474"
+            },
+            "sellingPoint": "足足喝1月",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605695/2020/0803/148/9a45c72c-ed09-4807-9cec-77aab2acd697_420_531.jpg",
+            "spuId": "35824005058936832",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605695/2020/0803/136/c47c7cdc-6940-48f2-874e-1e138911a7bf.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.3万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2f32e64d1f8b44778a1b11c35c03d8eb/10004068/primary.png",
+                "brandName": "比得兔",
+                "brandSn": "10004068"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/396185735285890801187168098/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.2",
+                "fav": "",
+                "marketPrice": "469",
+                "specialPrice": "53",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "139"
+            },
+            "productId": "6918325977212884608",
+            "productName": "大容量高硼硅玻璃家用耐高温冷水壶一壶两小杯套装两小杯套装",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "77",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥77"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710613376"
+            },
+            "sellingPoint": "高硼硅玻璃冷水壶",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104743/2019/0724/197/af68eb98-e56d-489f-b4ec-a98b696c8374_420_531.jpg",
+            "spuId": "230886241087467520",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104743/2020/0411/139/7bb85387-bf84-4618-8851-0194c6ac7112.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/764c53d654c648ff880e618fbb657891/10021786/primary.png",
+                "brandName": "HERO BABY",
+                "brandSn": "10021786"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/06/23/163/44005309.jpg",
+                "countryTips": "荷兰"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/f9e886995285890789970583331/v.f20.mp4"
+            },
+            "isHaitao": true,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "5.1",
+                "fav": "",
+                "marketPrice": "159",
+                "specialPrice": "80",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "89"
+            },
+            "productId": "6917935098845959193",
+            "productName": "荷兰原装Hero Baby婴幼儿奶粉白金版4段 700g",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "89",
+                "totalQuota": 2000,
+                "totalQuotaShortTips": "限量2000件",
+                "totalQuotaTips": "限量2000件,抢完恢复￥89"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710619993"
+            },
+            "sellingPoint": "口味清淡不上火",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdc/753/087/1016763901053087753/9/8713500010371-5.jpg",
+            "spuId": "1016763901053087753",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdc/753/087/1016763901053087753/9/8713500010371-1.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/91363b4f258044a992ebe835a7ccd834/10016087/primary.png",
+                "brandName": "斯维诗",
+                "brandSn": "10016087"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/06/12/42/0528138.jpg",
+                "countryTips": "澳大利亚"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": true,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.8",
+                "fav": "",
+                "marketPrice": "269",
+                "pmsShortMsg": "2件8.5折",
+                "specialPrice": "46",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "59"
+            },
+            "productId": "6918538775402201232",
+            "productName": "补铁片30片经期贫血补血铁剂维C增强抵御澳洲Swisse姨妈",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "59",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥59"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710620944"
+            },
+            "sellingPoint": "轻松吃出好气色",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/29/3/0cd3f53c-2f98-4cf6-8a1d-07a40253c97e_420_531.jpg",
+            "spuId": "509265049617301504",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/13/45/aa823573-6329-47bf-9ed7-a16c123078b4.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/28d1e2b81c2d4cae810da5e709c58209/10029121/primary.png",
+                "brandName": "浮生若梦",
+                "brandSn": "10029121"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/9a4d23915285890805123798381/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 0,
+            "priceTipsVO": {
+                "discount": "1.9",
+                "fav": "",
+                "marketPrice": "298",
+                "specialPrice": "56",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "79"
+            },
+            "productId": "6918790900744338525",
+            "productName": "【深V无痕 聚拢美背】多种穿法蕾丝轻薄内衣女无钢圈聚拢文胸",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "79",
+                "totalQuota": 3500,
+                "totalQuotaShortTips": "限量3500件",
+                "totalQuotaTips": "限量3500件,抢完恢复￥79"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710614653"
+            },
+            "sellingPoint": "前扣美背 深V无钢圈",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600841/2020/0717/75/076b9072-fb4f-44be-8066-b884a6d9bea8_420_531.jpg",
+            "spuId": "1105992050134904845",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600841/2020/0630/117/7f1d669d-6437-45ba-8dfe-ffb4d9ab4060.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b3fabcd00ee043bfab4d6acd82621ce5/10039090/primary.png",
+                "brandName": "好哩！",
+                "brandSn": "10039090"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "2.8",
+                "fav": "",
+                "marketPrice": "44",
+                "specialPrice": "12",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "16"
+            },
+            "productId": "6918566590719742785",
+            "productName": "好哩泰国进口黑莓果米脆片学生白领非油炸膨化休闲谷物零食2袋装",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "16",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥16"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711135169"
+            },
+            "sellingPoint": "泰国进口 低卡零食",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617385/2019/1223/84/97ea7c0d-fed1-4cf3-9499-b96d2b4a42d0_420_531.jpg",
+            "spuId": "2675215003259351040",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617385/2019/1223/54/219b48c3-dcb0-4d5b-94fe-b7b58ac1f71a.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/29f04347dc1940279b76aaca548b99fe/10021754/primary.png",
+                "brandName": "左家右厨",
+                "brandSn": "10021754"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/84b7ad065285890802622611538/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.3",
+                "fav": "",
+                "marketPrice": "116",
+                "specialPrice": "14",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "45"
+            },
+            "productId": "6918678264581042331",
+            "productName": "【打蛋器 过滤网 水果挖球勺】辅食网筛烘培工具厨房家用打蛋器",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "20",
+                "totalQuota": 1200,
+                "totalQuotaShortTips": "限量1200件",
+                "totalQuotaTips": "限量1200件,抢完恢复￥20"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711198139"
+            },
+            "sellingPoint": "专具专用 省心更省力",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612320/2020/0903/152/7e78bc23-4633-4453-8289-a5ce9c50cffe_420_531.jpg",
+            "spuId": "1746910558371192872",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612320/2020/0903/88/b30789b2-db14-4023-8cca-fb5d41077097.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0056c18671f44a16bb4ddf48835c28c9/10023731/primary.png",
+                "brandName": "宜而爽",
+                "brandSn": "10023731"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/07cf14245285890803492044053/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 0,
+            "priceTipsVO": {
+                "discount": "1.4",
+                "fav": "",
+                "marketPrice": "269",
+                "specialPrice": "36",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "46"
+            },
+            "productId": "6918659200479323408",
+            "productName": "【2件装无痕一片式 聚拢无钢圈】光面薄款美背运动睡眠文胸",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "46",
+                "totalQuota": 2000,
+                "totalQuotaShortTips": "限量2000件",
+                "totalQuotaTips": "限量2000件,抢完恢复￥46"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710614768"
+            },
+            "sellingPoint": "聚拢无钢圈无痕美背",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/601430/2020/0602/100/fd52799b-0b83-46a3-9027-5509d87a8c66_420_531.jpg",
+            "spuId": "2176159893899993089",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/601430/2020/0302/25/1ca719d9-7d44-4a01-914a-2d78c2caa39b.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/fd2f6ea8d11f4b04b48111d669dc418d/10030587/primary.png",
+                "brandName": "凡士林",
+                "brandSn": "10030587"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "3.2",
+                "fav": "",
+                "marketPrice": "77",
+                "specialPrice": "24",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "33"
+            },
+            "productId": "6917919935916471365",
+            "productName": "凡士林维他亮肤亮采修护身体乳200ml 美白身体乳",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "30",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥30"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710616645"
+            },
+            "sellingPoint": "维他亮肤越用越白",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600863/2018/0604/166/589472e2-3a8a-4869-bd16-1bb65219bf86_420_531.jpg",
+            "spuId": "316173019157000192",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600863/2018/0604/139/745e7ce5-0e53-47ba-b96f-78239423ddb9.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/dc1f4ee79f8c4cc797a082ea0d897224/10027613/primary.png",
+                "brandName": "茱蒂丝",
+                "brandSn": "10027613"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/2852c7944564972819219056863/v.f30.mp4",
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.6",
+                "fav": "",
+                "marketPrice": "118",
+                "specialPrice": "18",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "23"
+            },
+            "productId": "6917919828315559055",
+            "productName": "马来西亚进口 茱蒂丝 特脆乳酪饼干咸味饼干礼盒400g",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "23",
+                "totalQuota": 2000,
+                "totalQuotaShortTips": "限量2000件",
+                "totalQuotaTips": "限量2000件,抢完恢复￥23"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710613967"
+            },
+            "sellingPoint": "马来风味 特脆奶酪",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/609257/2018/0605/26/1fda44f5-c4f7-4a54-a489-f8afff3b84f5_420_531.jpg",
+            "spuId": "639524750647296",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/609257/2018/0605/64/ed9f5425-7876-4d5e-a637-4a47c6ca0de2.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.6万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/a6c8c9711e07450a8ee85d0846095827/10023989/primary.png",
+                "brandName": "paratex",
+                "brandSn": "10023989"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0
+            },
+            "isHaitao": false,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "3.4",
+                "fav": "",
+                "marketPrice": "299",
+                "specialPrice": "99",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "149"
+            },
+            "productId": "6918366504299120785",
+            "productName": "泰国原装进口94%天然乳胶含量坐垫办公室座椅学生凳子必备垫子",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "149",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥149"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710617969"
+            },
+            "sellingPoint": "泰国进口天然乳胶",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/610977/2020/0415/154/cd6ba20c-b168-41e2-83fe-b65ef01b5e0c_420_531.jpg",
+            "spuId": "393860269270749184",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/610977/2020/0415/72/9a261826-49af-4ff3-8f37-e1bce01a2e8e.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f30ec8d2d9e7424b9a75126258cef2c1/10004514/primary.png",
+                "brandName": "修正",
+                "brandSn": "10004514"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/679d52fd5285890784017938587/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.9",
+                "fav": "",
+                "marketPrice": "116",
+                "pmsShortMsg": "2件9折",
+                "specialPrice": "22",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "28"
+            },
+            "productId": "6917920560733832405",
+            "productName": "褪黑素胶囊 60粒 改善睡眠搭维生素b6片免疫助眠退黑素安眠",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "28",
+                "totalQuota": 2000,
+                "totalQuotaShortTips": "限量2000件",
+                "totalQuotaTips": "限量2000件,抢完恢复￥28"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710617301"
+            },
+            "sellingPoint": "改善睡眠安稳酣睡",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/609945/2019/0507/193/a961cfd8-c461-4491-9ab8-de82a9549a40_420_531.jpg",
+            "spuId": "234826700393623563",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/609945/2018/0613/180/7ba46e71-1bee-45ab-ab5d-6b30b4e82e93.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2af177318f154cac8f230bf1d41d3a26/10036447/primary.png",
+                "brandName": "雅鹿·自由自在",
+                "brandSn": "10036447"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0,
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.4",
+                "fav": "",
+                "marketPrice": "389",
+                "specialPrice": "52",
+                "specialPriceName": "特卖价",
+                "specialPriceSuffix": "起",
+                "vipshopPrice": "65"
+            },
+            "productId": "6918679277455951508",
+            "productName": "凉席生态碳化竹席双面两用可折叠光滑夏季清凉席子单条席无枕套",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "65",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥65起"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "3",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711185044"
+            },
+            "sellingPoint": "双面两用可折叠竹席",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618257/2020/0302/181/d8dcea2e-e87d-4ca0-9ff9-1dfbf254b482_420_531.jpg",
+            "spuId": "1037593616424472583",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618257/2020/0302/62/a916ae3e-1fe1-4a30-9399-c8f5eb1f6a4b.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖1.8万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b3fabcd00ee043bfab4d6acd82621ce5/10039090/primary.png",
+                "brandName": "好哩！",
+                "brandSn": "10039090"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/002f755f5285890806145051025/v.f30.mp4",
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "4.4",
+                "fav": "",
+                "marketPrice": "98",
+                "specialPrice": "43",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "54"
+            },
+            "productId": "6918566590702949185",
+            "productName": "【帕梅拉推荐】进口燕麦麸皮400g*2 无糖即食燕麦片早餐代餐谷物",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "54",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥54"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1711135169"
+            },
+            "sellingPoint": "李若彤同款即食燕麦",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617385/2020/0828/159/13e15db1-ed16-494c-b277-e4c731f8a536_420_531.jpg",
+            "spuId": "316454698154242048",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617385/2020/0828/96/06ad6425-ee13-40c8-91dd-02ca1bbc6c9a.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.5万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/fd2f6ea8d11f4b04b48111d669dc418d/10030587/primary.png",
+                "brandName": "凡士林",
+                "brandSn": "10030587"
+            },
+            "countryVO": {},
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 1,
+                "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/65a8e6525285890782031759842/v.f30.mp4"
+            },
+            "isHaitao": false,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "3.2",
+                "fav": "",
+                "marketPrice": "167",
+                "specialPrice": "52",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "76"
+            },
+            "productId": "6917926903520765125",
+            "productName": "凡士林美白身体乳400ml+润手霜50ml+身体乳30ml 美白保湿滋润套装",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "65",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥65"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "21",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710616645"
+            },
+            "sellingPoint": "滋润保湿 焕白美肌",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600863/2019/0702/148/1fff4544-0377-465b-90ed-3a5245e4dae0_420_531.jpg",
+            "spuId": "805658045874679808",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/600863/2020/0818/22/8ec0be6f-cf2c-4c98-96a2-b2c2376cfd0a.jpg",
+            "stockVO": {
+                "stockType": 0
+            },
+            "tagIds": []
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599480000,
+                "endTime": 1599566400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9897c0b4974b4404b373d16a4f64f1ad/10034793/primary.png",
+                "brandName": "No Brand",
+                "brandSn": "10034793"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/10/17/178/49516989.jpg",
+                "countryTips": "韩国"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0,
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": true,
+            "isMultiColor": true,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "4.8",
+                "fav": "",
+                "marketPrice": "69",
+                "specialPrice": "33",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "42"
+            },
+            "productId": "6918902460631358429",
+            "productName": "韩国No Brand 香甜玉米麦片 营养早餐 牛奶好搭档",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "42",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥42"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710624349"
+            },
+            "sellingPoint": "干爽酥脆 口感丰富",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/08/21/784c0abb-4598-4b1c-8bfe-48d6c5968f69_420_531.jpg",
+            "spuId": "1953513246783135745",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/08/142/250276e3-c9a4-4aa8-91ae-e8d31e960c04.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.2万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        },
+        {
+            "activityVO": {
+                "beginTime": 1599444000,
+                "endTime": 1599530400,
+                "isComing": false
+            },
+            "brandVO": {
+                "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6256d1fb2ecf4fd5a2d344b51e92cfce/10020902/primary.png",
+                "brandName": "Healthy Care",
+                "brandSn": "10020902"
+            },
+            "countryVO": {
+                "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/06/12/42/0528138.jpg",
+                "countryTips": "澳大利亚"
+            },
+            "favVO": {},
+            "iconVO": {
+                "hasShortVideo": 0,
+                "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                "snapUpTagUrlSrc": "PTP"
+            },
+            "isHaitao": true,
+            "isMultiColor": false,
+            "matchedStyleIdList": [],
+            "moduleId": "5313",
+            "preferSquare": 1,
+            "priceTipsVO": {
+                "discount": "1.9",
+                "fav": "",
+                "marketPrice": "595",
+                "specialPrice": "112",
+                "specialPriceName": "特卖价",
+                "vipshopPrice": "149"
+            },
+            "productId": "6917939909508321947",
+            "productName": "澳洲高浓缩葡萄籽精华胶囊200粒花青素",
+            "quotaVO": {
+                "isQuota": true,
+                "regretPrice": "149",
+                "totalQuota": 1000,
+                "totalQuotaShortTips": "限量1000件",
+                "totalQuotaTips": "限量1000件,抢完恢复￥149"
+            },
+            "reputationVO": {
+                "satisfactionDegree": ""
+            },
+            "saleStyle": "17",
+            "salesVO": {
+                "isMedicine": false,
+                "salesNo": "1710621019"
+            },
+            "sellingPoint": "逆龄抗老 美白皮肤滑",
+            "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/1000000001/2020/0826/36/0bb48a3f-7e4c-4275-b78e-670fd82b393a_420_531.jpg",
+            "spuId": "1028867703491006466",
+            "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/1000000001/2020/0826/19/60b9a690-26ce-4398-bbd7-d54e0df89abf.jpg",
+            "stockVO": {
+                "bossChosenDesc": "累计热卖2.2万件",
+                "stockType": 0
+            },
+            "tagIds": [
+                "14114"
+            ]
+        }
+    ]
+}

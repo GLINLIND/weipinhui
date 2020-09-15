@@ -1,0 +1,6 @@
+{
+    "/api/firstProducts":"/rowList",
+    "/api/listLeft":"/listLeft",
+    "/api/data":"/listTop",
+    "/api/leftContent":"/leftContent"
+}

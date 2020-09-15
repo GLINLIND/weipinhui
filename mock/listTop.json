@@ -1,0 +1,38 @@
+{
+  "data": {
+    "moduleList": [
+      {
+        "moduleId": 2536,
+        "moduleName": "全部"
+      },
+      {
+        "moduleId": 4471,
+        "moduleName": "补水面膜"
+      },
+      {
+        "moduleId": 4470,
+        "moduleName": "防晒"
+      },
+      {
+        "moduleId": 4478,
+        "moduleName": "家清日用"
+      },
+      {
+        "moduleId": 4477,
+        "moduleName": "清凉酒饮"
+      },
+      {
+        "moduleId": 4474,
+        "moduleName": "宝宝尿裤"
+      },
+      {
+        "moduleId": 4472,
+        "moduleName": "手机耳机"
+      },
+      {
+        "moduleId": 4473,
+        "moduleName": "洗护套装"
+      }
+    ]
+  }
+}

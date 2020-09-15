@@ -1,0 +1,93 @@
+{
+  "id": "2051452",
+  "name": "唯品会",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16405194",
+      "name": "上箭头",
+      "font_class": "icon-arrow-up-big",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "986151",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "4479020",
+      "name": "客服 (2)",
+      "font_class": "kefu",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "1081603",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3293251",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "4742419",
+      "name": "感叹号",
+      "font_class": "gantanhao",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "11012648",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11411988",
+      "name": "定位",
+      "font_class": "icon-test",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12529022",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "2395544",
+      "name": "喜爱",
+      "font_class": "fenxiang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8326803",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "8852347",
+      "name": "回顶部",
+      "font_class": "huidingbu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

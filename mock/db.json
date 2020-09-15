@@ -1,0 +1,601 @@
+{
+    "data": {
+        "products": [
+            {
+                "productId": "6918840548049577540",
+                "productName": "蓝牙耳机5.0耳塞式 双耳迷你 充电仓 无线蓝牙耳机苹果安卓通用",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612154/2020/0623/136/e9e53d30-0fcb-42c4-9855-14c49bffb605_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/612154/2020/0623/24/9743fc73-8645-47d7-8672-a0817b3d616f.jpg",
+                "preferSquare": 1,
+                "spuId": "877152920355295232",
+                "saleStyle": "3",
+                "sellingPoint": "真无线蓝牙耳机",
+                "isHaitao": false,
+                "isMultiColor": false,
+                "salesVO": {
+                    "salesNo": "1711234852",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "49",
+                    "marketPrice": "199",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "49",
+                    "fav": "",
+                    "discount": "2.5"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.8万件",
+                    "soldRate": 84,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.8万件"
+                },
+                "brandVO": {
+                    "brandSn": "10034413",
+                    "brandName": "蜂翼",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/55738586036497404/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/ba503f95vodtranshk1251962819/73a49caf5285890805744489031/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1598580000,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6918787920606093516",
+                "productName": "【亏本清仓】决明子磁石枕枕头单双人家用枕芯成人护颈椎枕芯",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/109661/2020/0809/99/96aa8fd2-21d9-448a-97a3-824dac3e9176_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/109661/2020/0809/98/77a764d3-0a74-4576-aec7-b769909d254c.jpg",
+                "preferSquare": 1,
+                "spuId": "1086570289207762950",
+                "saleStyle": "3",
+                "sellingPoint": "决明子磁石填充枕芯",
+                "isHaitao": false,
+                "isMultiColor": true,
+                "salesVO": {
+                    "salesNo": "1710616140",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "16",
+                    "marketPrice": "79",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "16",
+                    "specialPriceSuffix": "起",
+                    "fav": "",
+                    "discount": "1.9"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖5.2万件",
+                    "soldRate": 64,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖5.2万件"
+                },
+                "brandVO": {
+                    "brandSn": "10011950",
+                    "brandName": "天绚",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/34c6ad773af4404692d2aca46c484cc4/10011950/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 0
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1593777600,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "1124490950766668",
+                "productName": "2-12件免抽气真空压缩收纳袋加厚衣服棉被压缩袋被子立体袋",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100006415/2020/0907/166/89e58ac8-bed6-44e9-99ec-c93958299dd9_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100006415/2020/0907/179/43fdda06-68e4-4ead-8138-54add45ed33d.jpg",
+                "preferSquare": 1,
+                "spuId": "220753229377904640",
+                "saleStyle": "2",
+                "sellingPoint": "专利 免抽气压缩袋",
+                "isHaitao": false,
+                "isMultiColor": false,
+                "salesVO": {
+                    "salesNo": "100571308",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "29",
+                    "marketPrice": "49",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "24",
+                    "specialPriceSuffix": "起",
+                    "fav": "",
+                    "discount": "4.9"
+                },
+                "stockVO": {
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖7.3万件"
+                },
+                "brandVO": {
+                    "brandSn": "10001036",
+                    "brandName": "太力",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4bb1acd11d2c492faf2cf7ac9e6a3490/10001036/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/e3c895d45285890798873105064/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1599566400,
+                    "endTime": 1599703200,
+                    "activityTips": "今日20点开抢"
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": true,
+                    "totalQuota": 5000,
+                    "totalQuotaTips": "限量5000件,抢完恢复￥29起",
+                    "totalQuotaShortTips": "限量5000件",
+                    "regretPrice": "29"
+                },
+                "tagIds": [
+                    "12486"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6918238864278323354",
+                "productName": "【眼妆两件套】彩妆套组睫毛膏眼线液笔防水速干可选眉笔",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614294/2020/0724/189/32ac24c5-b387-4ffc-8333-3746f616ca29_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614294/2020/0724/37/3c55b8ff-4214-4325-ac07-97ae1772076d.jpg",
+                "preferSquare": 1,
+                "spuId": "728252507182608389",
+                "saleStyle": "21",
+                "sellingPoint": "眼部套装 魅惑电眼",
+                "isHaitao": false,
+                "isMultiColor": true,
+                "salesVO": {
+                    "salesNo": "1710698778",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "29",
+                    "marketPrice": "94",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "26",
+                    "fav": "",
+                    "discount": "2.8"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖4.9万件",
+                    "soldRate": 84,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖4.9万件"
+                },
+                "brandVO": {
+                    "brandSn": "10011260",
+                    "brandName": "火烈鸟",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/086ad49530944bd6b4ee351542b7e8fc/10011260/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/d45cdcb45285890790143362977/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1599307200,
+                    "endTime": 1600653600
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false,
+                    "regretPrice": ""
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "1048681999033412",
+                "productName": "维E护肤洗洁精洗1.01kg*4瓶 柠檬 可洗蔬果碗碟",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100004598/2019/1225/130/71ed2d91-a241-48ad-892b-87c29514b80a_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100004598/2019/1225/116/28b4ccf2-e964-428c-936d-0e02ff02cda7.jpg",
+                "preferSquare": 1,
+                "spuId": "1835012202305478656",
+                "saleStyle": "2",
+                "sellingPoint": "维E护肤 可洗蔬果",
+                "isHaitao": false,
+                "isMultiColor": false,
+                "salesVO": {
+                    "salesNo": "100103364",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "41",
+                    "marketPrice": "79.9",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "41",
+                    "fav": "",
+                    "discount": "5.1"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.8万件",
+                    "soldRate": 9,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.8万件"
+                },
+                "brandVO": {
+                    "brandSn": "10037029",
+                    "brandName": "斧头牌",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/876920404907234/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 0
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1591272000,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "12486"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6918615852038062297",
+                "productName": "臻选纯棉超薄日用夜用卫生巾套装83/91片",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605400/2020/0904/106/bdbe095f-08c7-45e9-bf86-d6d3e4e56302_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/605400/2020/0904/42/a0f9c444-fec3-412a-ba94-2e58ab814d52.jpg",
+                "preferSquare": 1,
+                "spuId": "89022717279879168",
+                "saleStyle": "3",
+                "sellingPoint": "杨紫同款奢柔呵护",
+                "isHaitao": false,
+                "isMultiColor": true,
+                "salesVO": {
+                    "salesNo": "1710616857",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "59",
+                    "marketPrice": "199",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "59",
+                    "fav": "",
+                    "discount": "3"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖24.8万件",
+                    "soldRate": 95,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖24.8万件"
+                },
+                "brandVO": {
+                    "brandSn": "10028381",
+                    "brandName": "高洁丝",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/e2d7269442ab470c94d39e8fb988fc1c/10028381/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/e5bbac36vodtranscq1251962819/019257b15285890795972215053/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1585310400,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "12486"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6918128649313481738",
+                "productName": "【李佳琦热荐】 卿润保湿定妆喷雾80ml 持久定妆 补水保湿控油",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614452/2020/0828/87/1b01684e-a582-4e32-93ce-e86abe52cfea_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614452/2020/0901/180/004ad6eb-86f8-46e0-870c-5deb685ad5f9.jpg",
+                "preferSquare": 1,
+                "spuId": "896574518164905990",
+                "saleStyle": "21",
+                "sellingPoint": "持久定妆，保湿控油",
+                "isHaitao": false,
+                "isMultiColor": false,
+                "salesVO": {
+                    "salesNo": "1710706730",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "70",
+                    "marketPrice": "128",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "70",
+                    "fav": "",
+                    "discount": "5.5"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.0万件",
+                    "soldRate": 85,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.0万件"
+                },
+                "brandVO": {
+                    "brandSn": "10027445",
+                    "brandName": "芮客",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/79a9bdb7f02d4967b938e34000118943/10027445/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/0082677c5285890799547408076/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1591963200,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "1366417765338073",
+                "productName": "（RIO）预调鸡尾酒女神的小仙水330ml*8罐8种口味",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100005691/2020/0731/136/780ecc98-6733-4249-973e-d43b1840e11a_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcpos/1100005691/2020/0731/82/f8f1a25b-ff7b-42a7-8386-0d2bc07cf671.jpg",
+                "preferSquare": 1,
+                "spuId": "377253375082258432",
+                "saleStyle": "2",
+                "sellingPoint": "来罐微醺 美好就在于",
+                "isHaitao": false,
+                "isMultiColor": true,
+                "salesVO": {
+                    "salesNo": "100233913",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "49",
+                    "marketPrice": "60",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "49",
+                    "fav": "",
+                    "discount": "8.2"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.5万件",
+                    "soldRate": 33,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.5万件"
+                },
+                "brandVO": {
+                    "brandSn": "10015762",
+                    "brandName": "锐澳",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/685f9f0e1ec44274b1daddf5c8463bdd/10015762/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 0
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1598328000,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "12486"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6918799934268393090",
+                "productName": "吸管杯带刻度牛奶杯微波炉可加热玻璃耐热儿童冲泡奶粉杯",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618218/2020/0603/111/65b89d2c-7796-4595-9cae-96d8f9c8bd65_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/618218/2020/0603/194/7f97171b-0dd0-4294-8b6d-28bc2d5a7093.jpg",
+                "preferSquare": 1,
+                "spuId": "2698577485066014720",
+                "saleStyle": "3",
+                "sellingPoint": "儿童牛奶杯",
+                "isHaitao": false,
+                "isMultiColor": true,
+                "salesVO": {
+                    "salesNo": "1711180290",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "27",
+                    "marketPrice": "129",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "27",
+                    "fav": "",
+                    "discount": "2.1"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.1万件",
+                    "soldRate": 95,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.1万件"
+                },
+                "brandVO": {
+                    "brandSn": "10029197",
+                    "brandName": "富光",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/57defa778b81458db83f280ed2d68070/10029197/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 1,
+                    "shortVideoUrl": "http://1251962819.vod2.myqcloud.com/54067453vodtransgzp1251962819/54b1662f5285890803951217089/v.f30.mp4"
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1597665600,
+                    "endTime": 2145888000
+                },
+                "countryVO": {},
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            },
+            {
+                "productId": "6917935107815896066",
+                "productName": "澳洲 OZ Farm 速溶脱脂奶粉 成人奶粉 1kg",
+                "smallImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/05/22/26/4d860971-6350-46c7-a935-06243b2df53f_420_531.jpg",
+                "squareImage": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/05/22/66/15ca0168-36cb-47cf-8fa7-1b420c2c6b42.jpg",
+                "preferSquare": 1,
+                "spuId": "4328035596171448322",
+                "saleStyle": "17",
+                "sellingPoint": "脱脂不长胖",
+                "isHaitao": true,
+                "isMultiColor": false,
+                "salesVO": {
+                    "salesNo": "1710620098",
+                    "isMedicine": false
+                },
+                "priceTipsVO": {
+                    "vipshopPrice": "63",
+                    "marketPrice": "199",
+                    "specialPriceName": "特卖价",
+                    "specialPrice": "63",
+                    "fav": "",
+                    "discount": "3.2"
+                },
+                "stockVO": {
+                    "saleDesc": "累计热卖2.1万件",
+                    "soldRate": 63,
+                    "stockType": 0,
+                    "bossChosenDesc": "累计热卖2.1万件"
+                },
+                "brandVO": {
+                    "brandSn": "10024812",
+                    "brandName": "OZ FARM",
+                    "brandLogo": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/e36965fda6be48f4ae293c1a7c803b9a/10024812/primary.png"
+                },
+                "iconVO": {
+                    "snapUpTagUrl": "https://h2.appsimg.com/a.appsimg.com/upload/pmc/2019/10/28/15/1572234761550.png",
+                    "snapUpTagUrlSrc": "PTP",
+                    "hasShortVideo": 0
+                },
+                "activityVO": {
+                    "isComing": false,
+                    "beginTime": 1585274400,
+                    "endTime": 2145888000
+                },
+                "countryVO": {
+                    "countryFlag": "https://h2.appsimg.com/a.appsimg.com/upcb/2016/06/12/42/0528138.jpg",
+                    "countryTips": "澳大利亚"
+                },
+                "matchedStyleIdList": [],
+                "quotaVO": {
+                    "isQuota": false
+                },
+                "tagIds": [
+                    "14114"
+                ],
+                "moduleId": "2536",
+                "reputationVO": {
+                    "satisfactionDegree": ""
+                },
+                "favVO": {}
+            }
+        ]
+    }
+}

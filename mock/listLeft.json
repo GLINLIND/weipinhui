@@ -1,0 +1,70 @@
+{
+  "listLeft": {
+    "moduleList": [
+      {
+        "moduleId": 2536,
+        "moduleName": "C位精选"
+      },
+      {
+        "moduleId": 4471,
+        "moduleName": "海外尖货"
+      },
+      {
+        "moduleId": 4470,
+        "moduleName": "彩妆护肤"
+      },
+      {
+        "moduleId": 4478,
+        "moduleName": "个人护理"
+      },
+      {
+        "moduleId": 4477,
+        "moduleName": "大小家电"
+      },
+      {
+        "moduleId": 4474,
+        "moduleName": "生活超市"
+      },
+      {
+        "moduleId": 4472,
+        "moduleName": "母婴童装"
+      },
+      {
+        "moduleId": 4473,
+        "moduleName": "手表配饰"
+      },
+      {
+        "moduleId": 4480,
+        "moduleName": "时尚女装"
+      },
+      {
+        "moduleId": 4484,
+        "moduleName": "家具家装"
+      },
+      {
+        "moduleId": 4475,
+        "moduleName": "家居家纺"
+      },
+      {
+        "moduleId": 4479,
+        "moduleName": "鞋靴箱包"
+      },
+      {
+        "moduleId": 4481,
+        "moduleName": "品质男装"
+      },
+      {
+        "moduleId": 4476,
+        "moduleName": "手机数码"
+      },
+      {
+        "moduleId": 4482,
+        "moduleName": "男女内衣"
+      },
+      {
+        "moduleId": 4483,
+        "moduleName": "运动户外"
+      }
+    ]
+  }
+}
